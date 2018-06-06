@@ -1,1 +1,2 @@
-# Battleship
+# Battleship Game
+# Amiral Battı Oyunu
